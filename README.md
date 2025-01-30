@@ -1,9 +1,6 @@
 **ADONIAS GALVÃO FILHO**  
 **Desenvolvedor de Software**  
 Programador com experiência na área pública e privada, especializado em sistemas de gestão de pessoas, documentos e materiais. Proficiente em lidar com diferentes tecnologias, metodologias e ambientes de trabalho. Reconhecido por sua empatia ao identificar e abordar as dificuldades da equipe, além de ser proativo na busca por soluções eficazes para problemas técnicos e organizacionais.  
-	  
-**Email**: [adonias.dev@gmail.com](mailto:adonias.dev@gmail.com)  
-**Linkedin**: [https://www.linkedin.com/in/adonias-galvao-filho/](https://www.linkedin.com/in/adonias-galvao-filho/)  
 
 **Inglês**:  B2, Intermediário/Técnico 
 
